@@ -24,7 +24,7 @@ const Login = () => (
         <button type="submit">{t`Login`}</button>
       </div>
     </form>
-    <footer>{t`Version ${version}`}</footer>
+    <footer>{t`Version ${version} -- appended text`}</footer>
   </div>
 );
 
