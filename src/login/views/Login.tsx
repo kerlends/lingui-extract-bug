@@ -17,7 +17,7 @@ const Login = () => (
   <div>
     <form>
       <Input name="username" label={t`Username`} />
-      <Input name="password" label={t`Password`} type="password" />
+      <Input name="password" label={t`Your password`} type="password" />
       <Input name="server" label={t`Server`} />
       <div>
         <button type="reset">{t`Clear`}</button>

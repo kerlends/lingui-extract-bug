@@ -6,6 +6,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
 "Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
 
 #: src/login/views/Login.tsx:23
 msgid "Clear"
@@ -23,6 +29,10 @@ msgstr "Login"
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac ultrices turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate vitae tortor eget sagittis. Praesent consequat consequat pharetra. Pellentesque cursus libero et lacus commodo eleifend. Sed id nunc et dolor volutpat auctor. Donec et elit at erat imperdiet molestie. Quisque sed purus dolor. Aliquam finibus posuere vehicula. Donec sollicitudin scelerisque dapibus. Mauris eu lorem lacus."
 msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac ultrices turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate vitae tortor eget sagittis. Praesent consequat consequat pharetra. Pellentesque cursus libero et lacus commodo eleifend. Sed id nunc et dolor volutpat auctor. Donec et elit at erat imperdiet molestie. Quisque sed purus dolor. Aliquam finibus posuere vehicula. Donec sollicitudin scelerisque dapibus. Mauris eu lorem lacus."
 
+#: src/login/views/Home.tsx:18
+msgid "Maecenas ut finibus metus, sit amet consectetur lorem. Maecenas lorem lectus, rhoncus vel lacus id, tempor pretium lacus. Integer congue malesuada orci ut iaculis. Duis ullamcorper justo ac dui consequat vulputate. Morbi lorem lorem, semper egestas erat at, volutpat condimentum mauris. Vivamus et tristique purus, vel molestie nibh. Nunc sed elementum diam. Vestibulum sed elit a elit finibus semper in vel ligula. Aenean condimentum elit sit amet purus volutpat vulputate. Nulla condimentum ligula ut diam faucibus aliquam. Quisque imperdiet molestie leo non laoreet."
+msgstr "Maecenas ut finibus metus, sit amet consectetur lorem. Maecenas lorem lectus, rhoncus vel lacus id, tempor pretium lacus. Integer congue malesuada orci ut iaculis. Duis ullamcorper justo ac dui consequat vulputate. Morbi lorem lorem, semper egestas erat at, volutpat condimentum mauris. Vivamus et tristique purus, vel molestie nibh. Nunc sed elementum diam. Vestibulum sed elit a elit finibus semper in vel ligula. Aenean condimentum elit sit amet purus volutpat vulputate. Nulla condimentum ligula ut diam faucibus aliquam. Quisque imperdiet molestie leo non laoreet."
+
 #: src/login/views/Login.tsx:20
 msgid "Password"
 msgstr "Password"
@@ -38,3 +48,7 @@ msgstr "Username"
 #: src/login/views/Login.tsx:27
 msgid "Version {version}"
 msgstr "Version {version}"
+
+#: src/login/views/Login.tsx:20
+msgid "Your password"
+msgstr "Your password"
